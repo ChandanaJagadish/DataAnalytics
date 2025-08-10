@@ -18,7 +18,7 @@ This indicates where most of the coffee samples or rated coffee beans in the dat
 3.Scores dip slightly to around 97 for many other coffee names.
 4.This visualization helps identify the highest-rated coffees by name and their score distribution.
 
-**4. Max of total_score by roast_level (Pie chart)**
+**4. Max of total_score by roast_level (Pie Chart)**
   
 1.This pie chart breaks down the maximum total score by different roast levels.
 2.The roast levels shown are Dark, Light, Medium, Medium-Dark, and Medium-Light.
