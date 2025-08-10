@@ -1,0 +1,34 @@
+**1. Country that produces more coffee (Bar chart)**
+
+This bar chart shows the count of total scores (probably coffee ratings) by country.
+The top coffee-producing countries are visible, with South America leading (328 counts), followed by Colombia (272), South Central America (154), Western region (96), Ethiopia (86), and South-Central Ethiopia (85).
+This indicates where most of the coffee samples or rated coffee beans in the dataset originate from.
+
+**2. Score prediction of expensive coffee (Line chart)**
+
+1.This line graph plots the total score (x-axis) against the count of price per ounces (y-axis).
+2.It shows that coffees with lower total scores (around 94) have the highest counts of price per ounces, with the count decreasing steeply as the total score increases.
+3.The count of price per ounces drops significantly from about 1.25K at a score of 94 to near zero at score 98.
+4.This suggests that coffee with lower scores has more frequent pricing records, while very high-scoring coffee (close to 98) is less frequently priced but presumably more expensive.
+
+**3. Coffee Name and their score (Area chart)**
+  
+1.This chart shows the average total score for different coffee names.
+2.Coffee varieties like "Elda Estate", "Ihwa Sop", and "GWO 3 Fln" have scores close to 98.
+3.Scores dip slightly to around 97 for many other coffee names.
+4.This visualization helps identify the highest-rated coffees by name and their score distribution.
+
+**4. Max of total_score by roast_level (Pie chart)**
+  
+1.This pie chart breaks down the maximum total score by different roast levels.
+2.The roast levels shown are Dark, Light, Medium, Medium-Dark, and Medium-Light.
+3.Scores are quite close, ranging from 94 to 98.
+4.This shows how the highest coffee scores are distributed across different roasting styles, with Medium-Light and Dark roasts having the highest max scores (98 and 94 respectively).
+
+**5. Table (Sum of price_per_ounces by total_score)**
+1.The table on the top right shows the sum of price per ounces aggregated by total score.
+2.Higher total scores (94, 95, 96, 97, 98) correspond to increasing sums of price per ounces, with score 94 having the largest sum at 139,943.11 and score 98 having the smallest sum at 10,793.55.
+3.This suggests that coffee with slightly lower scores contributes more to total sales by price per ounces.
+
+
+  
